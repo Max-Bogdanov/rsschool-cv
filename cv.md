@@ -1,4 +1,4 @@
-## [rsschool-cv](https://max-bogdanov.github.io/rsschool-cv/)
+## [rsschool-cv](https://max-bogdanov.github.io/Responsive-CV/)
 
 ***
 # Maxim Bogdanov  
