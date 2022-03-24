@@ -29,3 +29,43 @@ I like to do frontend development. I am delighted with the creation of beautiful
 - JavaScript Basics
 - Git, GitHub
 - Figma
+
+
+
+### Code example:
+
+***
+
+```javascript
+
+function sum(a,b) {
+    return a+b;
+}
+
+```
+
+
+### Experience:
+
+***
+
+
+### Education :
+
+***
+
+- **Gomel State Professional Chemical Technology Lyceum:** Engineer of control and measuring devices and automation
+- **Educational Design Center Staxis:** Interior designer
+- **Self-education, online courses, trainings on CSS3/ HTML5/JS/FIGMA**
+- **Courses:**
+        - [HTML Academy](https://htmlacademy.ru/)
+
+
+
+### English:
+
+***
+
+- Russian - Native
+- Belarusian - Native
+- English - B1
