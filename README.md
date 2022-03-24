@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Max-Bogdanov.github.io/rsschool-cv/cv
